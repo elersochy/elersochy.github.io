@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elersochy.github.io/sitemap.html.gz
+Sitemap: https://elersochy.github.io/app/sitemap.html.gz
+Sitemap: https://elersochy.github.io/assets/sitemap.html.gz
+Sitemap: https://elersochy.github.io/css/sitemap.html.gz
+Sitemap: https://elersochy.github.io/includes/sitemap.html.gz
+Sitemap: https://elersochy.github.io/item/sitemap.html.gz
+Sitemap: https://elersochy.github.io/src/sitemap.html.gz
